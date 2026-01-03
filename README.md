@@ -1,3 +1,7 @@
+
+# Brought to you by Hardwick Software Services...
+# Get secure hosting for your vibe coded b2b saas you skidded with lovable at:
+# https://justcalljon.pro/ 
 # Section 1: Introduction & Environment Variables
 
 ## The MCP Runtime Developer's Guide - Hardwick Software Services
